@@ -1,4 +1,4 @@
-# tkflow
+# easyflow
 
 A small app written in python+tkinter for visually modeling simple network flow problems. Uses the gurobi solver but that could be easily changed. Primarily written as a means to learn more about gui development in python and also a little about gurobi's python bindings. In the future I'd like to rewrite this using something modern like gtk or qt. 
 
