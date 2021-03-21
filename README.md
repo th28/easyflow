@@ -1,5 +1,6 @@
 
-https://user-images.githubusercontent.com/7756136/111890331-28d36b80-89f1-11eb-8f35-39eb15e3b947.mp4
+![preview](https://user-images.githubusercontent.com/7756136/111890381-8b2c6c00-89f1-11eb-8681-538159ec6581.gif)
+
 
 # tkflow
 
